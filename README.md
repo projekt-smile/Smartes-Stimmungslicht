@@ -12,7 +12,7 @@ Workshop entwickelt vom Deutschen Forschungszentrum für Künstliche Intelligenz
 | [Material 04](Material_04_Übungen_LED.pdf) |Erklärungen und Aufgaben zum Thema LED programmieren und das additive RGB Farbmodell.|
 | [Material 05](Material_05_Übungen_BAALL.pdf) |Erklärungen und kleine Aufgaben zum Thema Sensorik/Aktorik, das Living Lab BAALL und fortgeschrittene Programmierung mit Variablen und Bedingungen. |
 | [Material 06](Material_06_Handout_BAALL.pdf) |Grundriss und Liste, die die Objekte des Living Labs BAALL zeigen.|
-| [Material 07](Material_07_Challanges_BAALL.lpg) |Verschiedene Ideen für kleine Projekte: Kleine smarte Systeme mit LEDs und Sensoren aus dem Living Lab. Beispiele, geschrieben auf Mod. Kärtchen |
+| [Material 07](Material_07_Challanges_BAALL.jpg) |Verschiedene Ideen für kleine Projekte: Kleine smarte Systeme mit LEDs und Sensoren aus dem Living Lab. Beispiele, geschrieben auf Mod. Kärtchen |
 | [Material 08](Material_08_Übungen_Wetterdaten.pdf) |Erklärungen und kleine Aufgaben zum Thema Sensorik/Aktorik, die OpenWeatherMap API, und fortgeschrittene Programmierung mit Variablen und Bedingungen. |
 | [Material 09](Material_09_Handout_WetterBlöcke.pdf) |Übersicht über (Anweisungen) Blöcke in BEESM, mit denen auf Wetterinformationen zugegriffen wird. |
 | [Material 10](Material_10_Challanges_Wetter.jpg) |Verschiedene Ideen für kleine Projekte: Kleine smarte Systeme mit LEDs und Sensoren aus dem Living Lab. Beispiele, geschrieben auf Mod. Kärtchen |
