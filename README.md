@@ -24,8 +24,8 @@ Workshop entwickelt vom Deutschen Forschungszentrum für Künstliche Intelligenz
 | [Material 16](Material_16_Handout_Flussdiagramm.pdf) |Symbole und Flussdiagramm Beispiel|
 | [Material 17](Material_17_Anleitung_WifiManager.pdf) |Anleitung, wie das Licht-Objekt mit dem Wifi-Manager eine Netzwerk-Verbindung aufbauen kann. Für KursleiterInnen und SchülerInnen |
 | [Material 18](Material_18_Anleitung_LEDs_mBlock.pdf) |Anleitung, wie man alternativ LEDs mit dem Wemos D1 mini in mBlock programmieren kann. Für KursleiterInnen und SchülerInnen. Siehe dazu auch genauere Beschreibung bei: [Der Blume geht ein Licht auf](https://github.com/projekt-smile/bloecke-blumen-mikrocontroller-und-das-internet-of-things) |
-| [Material 19](BeispielCode.zip) |Verschiedene Projekte aus den Workshops. Beesm und Arduino Code |
-| [Material 20](mBlockExtensionsNeopixel.zip) |mBlock-Library, die die Programmierung von Farbeffekten für Arduino blockbasiert ermöglichen. |
+| [Material 19](Material_19_BeispielCode.zip) |Verschiedene Projekte aus den Workshops. Beesm und Arduino Code |
+| [Material 20](Material_19_mBlockExtensionsNeopixel.zip) |mBlock-Library, die die Programmierung von Farbeffekten für Arduino blockbasiert ermöglichen. |
 
 
 Das Repository für die Blockprogrammierumgebung BEESM: https://github.com/projekt-smile/BEESM  
