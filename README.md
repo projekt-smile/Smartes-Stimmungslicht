@@ -2,25 +2,30 @@
 Dokumentation zum smile-Workshop Smartes Stimmungslicht (Arduino, RGB LEDs, Sensoren). 
 Workshop entwickelt vom Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI) Bremen
 
-| Datei | Inhaltsbeschreibung |
+| Datei | Inhalt |
 | ------------: | :-------------- |
 |<img width=250/> | <img width=500/> |
-| 01_Stimmungslicht 1 |Begleitende Folien zum Workshop Variante 1. Diese werden für alle sichtbar präsentiert |
-| 02_Stimmungslicht 2 |Begleitende Folien zum Workshop Variante 2. Diese werden für alle sichtbar präsentiert |
-| [03_Handout Neopixel Blöcke](Materialien) |Zusammenfassung der Anweisungen (Blöcke), die in BEESM zur Programmierung der Neopixel RGB LEDs benötigt werden |
-| [04_Arbeitsblatt LED](Materialien) |Ein Arbeitsblatt mit Übungen und Erklärungen zum Thema RGB LEDs. Diese sind von den Teilnehmerinnen individuell bzw. in kleinen Gruppen zu bearbeiten |
-| [05_Handout Übersicht BAALL](Materialien) | Eine Übersicht über das Living Lab BAALL mit den Bezeichnungen der Objekte |
-| [06_Arbeitsblatt BAALL](Materialien) |Ein Arbeitsblatt mit Programmierübungen und Erklärungen zum Thema Living Lab BAALL. Diese sind von den Teilnehmerinnen individuell bzw. in kleinen Gruppen zu bearbeiten |
-| [07_Challanges BAALL](Materialien) |Eine Auswahl an Ideen für kleinere Projekte im BAALL, die bearbeitet werden können zur Festigung der Programmiergrundlagen Variablen und Bedingungen |
-| [08_Arbeitsblatt LED Effekte Fade](Materialien) |Ein Arbeitsblatt, dass die For-Schleife anhand eines LED Fading veranschaulicht. Diese sind von den Teilnehmerinnen individuell bzw. in kleinen Gruppen zu bearbeiten  |
-| [09_Arbeitsblatt LED Effekte Ketten](Materialien) |Ein Arbeitsblatt, dass die For-Schleife anhand einer LED Kette veranschaulicht. Diese sind von den Teilnehmerinnen individuell bzw. in kleinen Gruppen zu bearbeiten |
-| [10_Handout Flussdiagramm](Materialien) |Ein Beispiel für ein einfaches Flussdiagramm mit Erklärung der Symbole |
-| [11a_Challenge Sensor Button Temp](Materialien) |Aufgaben und Ideen für kleine Projekte um die Sensoren explorativ zu erarbeiten. diese sind von den Teilnehmerinnen selbstständig, individuell bzw. in kleinen Gruppen zu bearbeiten. Variante 1 |
-| [11b_Challenge Sensor PIR Licht](Materialien) |Aufgaben und Ideen für kleine Projekte um die Sensoren explorativ zu erarbeiten. diese sind von den Teilnehmerinnen selbstständig, individuell bzw. in kleinen Gruppen zu bearbeiten. Variante 1 |
-| [12_Erklärkarten Sensoren](Materialien) |Hilfestellung zu 11 |
-| [13_Arbeitsblatt Programmiergrundlagen](Materialien) |Einführung und Übungen zu den Themen Variablen und Bedingungen |
-| [14_Challenge RGB Farbe](Materialien) |Farbkarten zum ausdrucken und verteilen. Teilnehmerinnen sollen versuchen, (annähernd) diese Farben im RGB Modell zu programmieren. Variante 2b |
-| [15_Challenge Grove Sensoren](Materialien) |Aufgaben um Grove Sensoren experimentell zu bestimmen. Diese sind von den Teilnehmerinnen selbstständig, individuell bzw. in kleinen Gruppen zu bearbeiten. Variante 2b |
-| [16_Challenge Grove Sensoren Lsg](Materialien) |Programmier-Lösungen zu 15. Diese können als Abbildungen verwendet werden um die Dokumentation der Sensoren zu gestalten. Variante 2b |
-| [17_Vorlage SensorDokumentation](Materialien) |Optional: Vorlage um Sensoren aus 16 zu dokumentieren und präsentieren |
+| [Material 01](Workshopbeschreibung_v2.pdf) |Hier befindet sich ein Überblick des vorgestellten Workshops, mögliche Verlaufspläne und weitere Hintergrundinformationen. |
+| [Material 02a](Material_02_PowerpointStimmungslicht_esp8266.pdf) |Begleitende Folien zum Workshop Variante 1 & 2. Diese werden für alle sichtbar präsentiert. |
+| [Material 02b](Material_02_PowerpointStimmungslicht_arduino.pdf) |Begleitende Folien zum Workshop Variante 3. Diese werden für alle sichtbar präsentiert. |
+| [Material 03](Material_03_Handout NeopixelBlöcke.pdf) |Zusammenfassung der Anweisungen (Blöcke), die in BEESM zur Programmierung der Neopixel RGB LEDs benötigt werden. |
+| [Material 04](Material_04_Übungen LED.pdf) |Erklärungen und Aufgaben zum Thema LED programmieren und das additive RGB Farbmodell.|
+| [Material 05](Material_05_Übungen BAALL.pdf) |Erklärungen und kleine Aufgaben zum Thema Sensorik/Aktorik, das Living Lab BAALL und fortgeschrittene Programmierung mit Variablen und Bedingungen. |
+| [Material 06](Material_06_Handout BAALL.pdf) |Grundriss und Liste, die die Objekte des Living Labs BAALL zeigen.|
+| [Material 07](Material_07_Challanges BAALL.JPG) |Verschiedene Ideen für kleine Projekte: Kleine smarte Systeme mit LEDs und Sensoren aus dem Living Lab. Beispiele, geschrieben auf Mod. Kärtchen |
+| [Material 08](Material_08_Übungen_Wetterdaten.pdf) |Erklärungen und kleine Aufgaben zum Thema Sensorik/Aktorik, die OpenWeatherMap API, und fortgeschrittene Programmierung mit Variablen und Bedingungen. |
+| [Material 09](Material_09_Handout_WetterBlöcke.pdf) |Übersicht über (Anweisungen) Blöcke in BEESM, mit denen auf Wetterinformationen zugegriffen wird. |
+| [Material 10](Material_10_Challanges Wetter.JPG) |Verschiedene Ideen für kleine Projekte: Kleine smarte Systeme mit LEDs und Sensoren aus dem Living Lab. Beispiele, geschrieben auf Mod. Kärtchen |
+| [Material 11](Material_11_Übungen_Sensoren.pdf) |Erklärungen und kleine Aufgaben zum Thema Sensorik/Aktorik, wie mit Arduino Sensor-Werte ausgelesen werden und fortgeschrittene Programmierung mit Variablen und Bedingungen. |
+| [Material 12](Material_12_Erklärkarten Sensoren.pdf) |Sensoren, die auf handlichen Karten angebracht sind und anzeigen, wie diese an den Controller angeschlossen werden. Beispiele |
+| [Material 13](Material_13_Challenges Sensoren.pdf) |Aufgaben, um verschiedene Sensoren explorativ zu erarbeiten mit kleinen Projekten. Beispiele |
+| [Material 14](Material_14_Arbeitsblatt Schleife LED Fade.pdf) |Einführung in die Programmierung von Schleifen anhand des Themas „Fading“ einer LED |
+| [Material 15](Material_15_Arbeitsblatt Schleife LED Kette.pdf) |Einführung in die Programmierung von Schleifen anhand des Themas LED-Ketten |
+| [Material 16](Material_16_Handout Flussdiagramm.pdf) |Symbole und Flussdiagramm Beispiel|
+| [Material 17](Material_17_Anleitung Wifi-Manager.pdf) |Anleitung, wie das Licht-Objekt mit dem Wifi-Manager eine Netzwerk-Verbindung aufbauen kann. Für KursleiterInnen und SchülerInnen |
+| [Material 18](Material_18_Anleitung LEDs in mBlock.pdf) |Anleitung, wie man alternativ LEDs mit dem Wemos D1 mini in mBlock programmieren kann. Für KursleiterInnen und SchülerInnen. Siehe dazu auch genauere Beschreibung bei: [Der Blume geht ein Licht auf](https://github.com/projekt-smile/bloecke-blumen-mikrocontroller-und-das-internet-of-things) |
+| [Material 19](BeispielCode) |Verschiedene Projekte aus den Workshops. Beesm und Arduino Code |
+| [Material 20](mBlock Extensions Neopixel) |mBlock-Library, die die Programmierung von Farbeffekten für Arduino blockbasiert ermöglichen. |
 
+
+Das Repository für die Blockprogrammierumgebung BEESM: https://github.com/projekt-smile/BEESM  
