@@ -1,5 +1,5 @@
 # Smartes-Stimmungslicht
-Dokumentation zum smile-Workshop Smartes Stimmungslicht (Arduino, RGB LEDs, Sensoren). 
+Dokumentation zum smile-Workshop Smartes Stimmungslicht (Arduino, RGB LEDs, Sensoren). Konzipiert für SchülerInnen ab der Jahrgangsstufe 8.
 Workshop entwickelt vom Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI) Bremen
 
 | Datei | Inhalt |
